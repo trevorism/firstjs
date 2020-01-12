@@ -1,0 +1,8 @@
+{
+  "name": "@trevorism/firstjs",
+  "version": "0.1.0",
+  "description": "Says Hello World",
+  "license": "MIT",
+  "repository": "trevorism/firstjs",
+  "main": "index.js"
+}
